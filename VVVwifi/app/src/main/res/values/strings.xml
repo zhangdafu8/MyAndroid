@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VVV wifi</string>
+    <string name="name">无线局域网</string>
+    <string name="openWifi">打开wifi</string>
+    <string name="closeWifi">关闭wifi</string>
+    <string name="wifi1">imooc-office</string>
+    <string name="wifi2">imooc-meeting</string>
+    <string name="wifi3">imooc-visitor</string>
+</resources>
